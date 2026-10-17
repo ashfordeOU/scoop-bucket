@@ -1,12 +1,12 @@
 {
-    "version": "0.35.0",
+    "version": "0.36.0",
     "description": "Kshana PNT-resilience simulator as an MCP server (advisory, not type-approved navigation equipment)",
     "homepage": "https://kshana.dev",
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ashfordeOU/kshana/releases/download/v0.35.0/kshana-mcp-x86_64-pc-windows-msvc.exe#/kshana-mcp.exe",
-            "hash": "0fa4386f5a3bff77299c6b07ddd8466d2744b0eb69f34423d36c9924a15242c9"
+            "url": "https://github.com/ashfordeOU/kshana/releases/download/v0.36.0/kshana-mcp-x86_64-pc-windows-msvc.exe#/kshana-mcp.exe",
+            "hash": "667f8e06e7f5e6a11df44ec072c4cd463909e59ba37f01dd008d6cc76f5d9ee2"
         }
     },
     "bin": "kshana-mcp.exe",
